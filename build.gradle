@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group = 'net.ovonsame'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.json:json:20240303'
+    implementation 'org.springframework:spring-core:7.0.0-M2'
+    implementation 'org.apache.commons:commons-lang3:3.0'
+}
