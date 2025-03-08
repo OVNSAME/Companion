@@ -8,3 +8,4 @@ dependencies {
     implementation "com.github.OVNSAME:Companion:main"
 }
 ```
+Online API's were used for the library. You can see all the functions in the Companion class, it's easy to use because there are just static functions that return String.
